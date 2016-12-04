@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Preference</string>
+    <string name="informaci_n">Información</string>
+    <string name="save">Guardar</string>
+    <string name="show">Mostrar dato guardado</string>
+    <string name="no_info">No hay datos almacenados</string>
+</resources>
