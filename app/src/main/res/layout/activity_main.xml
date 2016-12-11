@@ -43,6 +43,7 @@
             />
 
         <TextView
+            android:id="@+id/data"
             style="@style/TextAppearance.AppCompat.Body2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
